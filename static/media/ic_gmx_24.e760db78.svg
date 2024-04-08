@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>asx logo square</title>
+	<defs>
+		<image  width="24" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAATCAYAAACKsM07AAAAAXNSR0IB2cksfwAAAzFJREFUeJytlGtojmEYx+/rfp733UwOc0hGms1Oltl8sOUwUkSNnBJbE2Y5JIRPkyWfiCQUmVN4l5EZspbVlHybIrZ88ImSD1opk8P2PJff8+xlag6veHv/Xfd9Pff9//+v+76ex5oEf1unXnG2Tb2csbMwNmJXYb0kus8msmhTUb0RcVLBPNe4hSDyXwWibkqq4yZvd53k3RFx90ZVltQWNKT8F4EtxXesETvJil0GskR1OuezTtSkHciP/fGo/iggYscr5IGIGHFgHGxVZzmqC9ic+k8CG2c0u77IbBVZCHFSKKgmcD0UkZWg+FDupd9y/PJh5cxmUXEKcb+HMgrCYowSAgUNxjOpYjvI+GuBilktxlp3FJRlMOVj2eHsfR69ZfwhrMRolGpKqGLBicxzKSczzyYuAPkQjrscr6sxHAmM83+JQh1CtyDuDhKIDUdgA1vKyCUnJFAxu8VhZzrDhVSQFnfbS2iHsw3CNkReQe6bPuV0CQV0zOmJZwZ01QABayPFdMthhvMhHsKOL9A88ERqwH2rfgxUQ/gU1741OpL5Klf9fY7v5/1WoKL0noWwBM/FTJ2+O9UuwkM1+ho+n/knhDsQeETsjlfIfegcqpt2adzxnwtUlrZGrLFZLF/LdFg8/UXF3PWNXEPk8/H2Zaa2s5xW1feQnSe2Yqg3aF1iOpVUWTXZsbHH7AABiNNEZCmDHBO2ZPh7ieOmJK+3J8Xz82qKGvP2T2mY7ImT54l6qtrJ8499VRgXTKOaxYh8fwEtl2oq57QOghznsplc0A3B4bxR0Rjkw3FxgtQN0EieaBrpsstq7ToqHKTfLGrwApr1vBsrGkcfiTaNOsydisOXUegaWcSaCfG1PcG5W18fk1/DvBR3ucRcHOZSXg7zbJqB9eKauKPwJVTNYs1ynqcxdqyE3xhbZfoIgiPrAc9YdDXiewW8s3PDqvQ7S3/8yQ/iKPdTBCrDeyEVHMk7cBNcBHXglOt5HSzoAtfj+YsSj/3QeJT+nJJTcxv3n4PvV+D4CTgINoFqsANcoK9fsLEOs9VUQx7Q/1z/D/NwPTkTjrmDau4keL4F8qOIPP8K+uo7nThvU8kAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="2"/>
+</svg>

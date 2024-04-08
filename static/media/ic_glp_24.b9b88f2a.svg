@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>alp logo</title>
+	<defs>
+		<image  width="24" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAATCAYAAACKsM07AAAAAXNSR0IB2cksfwAAAypJREFUeJytlH1ozVEYx8/znN/v7kVjM6VuVl62S1te5g8m5o8lJGQURZa9XJuIklL+4C8p4h9Ky1o3ovhjtRcUMmlNudtk3rJMJtNKK4W83/n8fvcuasyV3dtzn3Oec873+3yf55yrJslPZ3WL7axpmdG188rErl1XJdlzmiS4MWKysBIjUigq7pgSxMFlj6juVVcPaEDXdu+/kT4mBGTv7cmFZJ1RyROrC7BysRJ8dOjWX0uVjIIpWCllycUs33Hi6GJx7AqIsv6LoCPc7FCfYjJfCVgK4AYTiMaroxvEkYVPj7aPivHHxY6qZtBkHqXZR+3nQCDqWAjUoEA8Fcx3i6vT/5kgWtXsNXYStoZsC/zCqMQgfMPoQ0JJAAVF+OW9tZ3pz+u6kiegcxmAbRE1mwBx/ayt9DE/Q+0bmb9HgackU1xbwdpqEkhNiiBa2UQdzDSGKyEJctAA/I3KR4nfhLAVwJcJRazJVNYg0MkvznWPuFUjCNhcxM8xmriMGmeQ4RcyvQ34AeKt6trz2HasG4vxLrLxGzVgD9qAzR+VgOzRbRZiC4z6dfcYB1lqI9aPj5H0J1Q8MFY62PPe3+P1w8pSrPB1S8/vCQD3nn8eB8rUyoREI78AeBmSS6x9nn24xIT2LhpC5Tu1Wq+OXEfdN//qOjoVtZWcDQ1c69URBHyCZFmKzfQPQECGffhGJ9357mam5Pccby94dipaAFg+KmL4x6x/TCTjYPON1TW/PkCNljdKtKIpjXEZsDUspmJD2ABqLtg0N5vxSbrZYBSzpoE4YzkL4DZI0vwbxU2jb94DLEfZhsE7rwKDd/t9BbxWMx3wVdyEnHg2+pV5G4/oPoo2U6JiQEOAhtgTIsuQxMc5eAdvEuc87/1frSce9N4PEckDpIJGzfLbCjhAD7GL3I65RJYQj/9NqJifXuP+F3AT9zxALTSObPWuMNGhVKr9loyRbSIQ1kF4GqkPvZfrNZiNkWFjjjcRmh8x3lyHPXFJeJUm7DPzFAjkHtfiCKDVBMMc3E0e9ZTnKUC1xMMcCgPMmob9ue+ZqyE27L19JpzYvwOsE/gnPwBv8aIAuTpX0wAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="2"/>
+</svg>
